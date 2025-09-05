@@ -425,6 +425,9 @@ Kirigami.FormLayout {
             {
                 'label': i18n("Never")
             }
+            {
+                'label': i18n("Fullscreen Only")
+            }
         ]
         textRole: "label"
         onCurrentIndexChanged: cfg_PauseMode = currentIndex
