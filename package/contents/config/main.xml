@@ -23,6 +23,7 @@
         1: when a visible window is active
         2: when a window is visible
         3: never
+        4: fullscreen only
     -->
     <entry name="PauseMode" type="Int">
       <default>0</default>
